@@ -1,0 +1,17 @@
+To check if JAVA is installed in the system: Command Prompt >> java -version
+
+To run a JAVA file using Command Prompt
+1. cd javaFilePath (after cd, press the TAB button for suggested location)
+2. ----- > Test.java (for opening the file, optional)
+3. ----- > javac Test.java
+4. ----- > java Test
+5. Output
+
+#FILE NAME AND CLASS NAME MUST BE SAME
+
+To run a JAVA file using Command Prompt with user input
+1. cd javaFilePath
+2. ----- > CommandLine.java (for opening the file, optional)
+3. ----- > javac CommandLine.java
+4. ----- > java CommandLine 1 2 3
+5. Output

@@ -1,0 +1,4 @@
+Write a java Program to create an interface "Shape" that contains the value of PI and an empty method named
+PrintArea(double X, double Y). Provide three classes named rectangle, Triangle and Circle such that each one of the
+classes implements the class shape. Each one of the classes contains only one method PrintArea(double X, double Y) that
+prints the area of the given shape.
